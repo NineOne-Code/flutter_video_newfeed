@@ -1,6 +1,6 @@
 # flutter_video_newfeed
 
-This module will provide the list of video in the newfeed screen like tiktok.
+This module will provide the list of video in the newfeed screen like tiktok. Fork ![From](https://github.com/quochuynh67/flutter_video_newfeed)
 
 ![Image](screen.png)
 
